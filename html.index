@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>💚Joanna´s Personal Site</title>
+</head>
+
+<body>
+  <table cellspacing="20">
+    <tr>
+        <td><img src="Joanna.png" width="300 hight="300" alt="Joanna´s Profile"></td>
+        <td>  <h1>Founder of the <em>Family Adu</em> Company</h1>
+          <p> Marmelade ist weiter verbreitet als man denkt. Die österreichische Mehlspeisenküche <br>
+            arbeitet sogar ausgesprochen gern mit ihr. Aber daran hat Katharina Lachmund überhaupt<br>
+            nicht gedacht, als sie vor zwei Jahren begann, ihr spezielles „Glück im Glas“ anzubieten.</p></td>
+    </tr>
+  </table>
+    <br>
+    <hr>
+<h3>Neueste Family Adu <a href="https://www.wandtattoo.de/raeume/kueche/ausgefallene-marmeladensorten.html">Produkte</a></h3>
+<ul>
+  <li>Die neusten Produkte</li>
+  <li>Wie läuft der Herstellungsprozess?</li>
+  <li>Wo werden die Produkte verkauft?</li>
+  </ul>
+
+  <hr>
+
+  <h3>Berufserfahrung</h3>
+<table cellspacing="10">
+  <thead>
+    <tr>
+      <th>Data</th>
+      <th>Experiance</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2000-2012</td>
+      <td>Kochausbildung</td>
+    </tr>
+    <tr>
+      <td>2013-2016</td>
+      <td>Kochweiterbildung</td>
+    </tr>
+</table>
+
+<hr>
+
+<h3>Skills😊</h3>
+<table cellspacing="10">
+  <tr>
+    <td>Bootstrap Framework</td>
+    <td>⭐⭐⭐⭐⭐</td>
+    <td>CSS(3)</td>
+    <td>⭐⭐⭐</td>
+    <tr>
+      <td>HTML(5)</td>
+      <td>⭐</td>
+      <td>XML</td>
+      <td>⭐⭐⭐</td>
+    </tr>
+</table>
+
+  <hr>
+  <br>
+  
+  <a href="Die neusten Produkte.html"> Die neusten Produkte</a>
+  <br>
+  <a href="Contact me.html">Contact me</a>
+
+</body>
+
+</html>
